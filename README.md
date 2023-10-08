@@ -3,4 +3,6 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 # Installation
 Öncelikle projeyi clonelayın.
 
+```bash
 git clone https://github.com/berfnoz/kodluyoruzilkrepo.git
+```
